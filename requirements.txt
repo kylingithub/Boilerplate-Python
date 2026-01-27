@@ -1,6 +1,4 @@
-pytest
-pytest-cov
-pytest-sugar
-pydantic[email]
 pydantic
+pydantic[email]
 python-dotenv
+loguru

@@ -1,0 +1,11 @@
+pytest>=8.0,<9.0
+pytest-cov
+pytest-sugar
+pytest-html
+pytest-dotenv
+pytest-xdist
+pycountry
+pytest-loguru
+pytest-mock
+pyinstaller
+pyarmor
