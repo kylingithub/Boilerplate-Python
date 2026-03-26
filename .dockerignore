@@ -1,0 +1,30 @@
+# 虛擬環境
+.venv/
+venv/
+
+# 測試相關
+tests/
+.pytest_cache/
+pytest.ini
+
+# Python cache
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+
+# 版本控制
+.git/
+.gitignore
+
+# 編輯器設定
+.vscode/
+.cursor/
+*.cursorrules
+
+# 環境變數（機敏資料不入 image）
+config/
+.env
+.env.*
+
+# 文件
+README.md
